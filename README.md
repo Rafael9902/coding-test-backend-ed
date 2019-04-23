@@ -26,7 +26,7 @@ The examples contain MongoDB-like ids, but it is not mandatory to follow that. N
 ![Screen Shot 2019-04-23 at 11 18 06](https://user-images.githubusercontent.com/27861/56598122-810d5300-65b9-11e9-8e6e-ce09cad36c42.png)
 
 
-Methods to be implemented:
+### Methods to be implemented:
 
 **POST /user**
 
@@ -158,7 +158,7 @@ No parameters
 ![Screen Shot 2019-04-23 at 11 17 00](https://user-images.githubusercontent.com/27861/56598055-58855900-65b9-11e9-83f7-ea4d24de2e63.png)
 
 
-Methods to be implemented:
+### Methods to be implemented:
 
 **POST /comic**
 
