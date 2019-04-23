@@ -96,6 +96,7 @@ Will return status different than 200 in case of errors:
 	"status": "400",
 	"message": "User with that email already exists"
 }`
+
 `{
 	"status": "500",
 	"message": "Server error"
